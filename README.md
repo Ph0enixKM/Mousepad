@@ -59,3 +59,13 @@ Remember to cd into this repository. You can clone this repository for the sole 
 - `W` Scroll up
 
 - `S` Scroll down
+
+### Presicion / Boosters
+
+- `Shift` move 2 times faster
+
+- `Ctrl` move 2 times slower
+
+- `Alt` move 4 times slower
+
+_You can combine these buttons for instance `Alt` + `Ctrl` will make you move 8 times slower_
