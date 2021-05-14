@@ -50,7 +50,7 @@ To activate / desactivate use `Ctrl` + `Alt` + `P`
 
 ### Buttons
 
-- `Q` left clikc
+- `Q` left click
 
 - `E` right click
 
