@@ -36,6 +36,8 @@ Remember to cd into this repository. You can clone this repository for the sole 
 
 ## Usage 🎮
 
+To activate / desactivate use `Ctrl` + `Alt` + `P`
+
 ### Movement
 
 - `ArrowUp` move mouse up
